@@ -1,0 +1,23 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Résultats générés
+results/*.png
+results/*.jpg
+results/*.jpeg
+results/*.csv
+
+# Build futur de l'application Windows
+build/
+dist/
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers système macOS
+.DS_Store
